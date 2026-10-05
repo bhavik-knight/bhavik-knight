@@ -6,7 +6,7 @@ I build ML pipelines and local LLM applications, and I care about taking models 
  
 🔭 **Working on:** ML pipelines and applications built on local LLMs.<br/>
 🌱 **Currently exploring:** AI/ML Engineer Roles.<br/>
-💬 **Ask me about:** ricing Linux, open source software, and fixing software issues.<br/>
+💬 **Ask me about:** Ricing Linux, open-source software, and fixing software issues.<br/>
 ⚡ **Fun fact:** I love hackathons, picking up new tech stacks fast, and anything AI.<br/>
  
 ---
@@ -25,7 +25,7 @@ I build ML pipelines and local LLM applications, and I care about taking models 
 
 ### 🎯 Target Role: AI / ML Engineer
  
-I'm aiming for AI / ML Engineer roles, and I bring range across the whole stack around the model, from data to deployment.
+I'm aiming for AI / ML Engineer roles, and I bring a range across the whole stack around the model, from data to deployment.
  
 | Area | What I bring |
 |------|--------------|
@@ -62,8 +62,8 @@ I'm aiming for AI / ML Engineer roles, and I bring range across the whole stack 
  
 **[JobWingman](https://github.com/bhavik-knight/REPO-NAME)**: job application assistant running on local LLMs. Compared Qwen2.5:7b and Llama3.1:8b for resume parsing; Qwen2.5:7b performed better overall. Stack: Python, Ollama, PostgreSQL, Docker, Typst.
  
-**[RAG Application: Nova Scotia Road Safety Expert](https://github.com/bhavik-knight/5550-RAG-App)**: retrieval-augmented Q&A over the Nova Scotia Driver's Handbook, with five layers of prompt-injection defence, PII redaction and an LLM-based faithfulness score. Stack: Python, LangChain, ChromaDB, Jina embeddings, OpenRouter.
+**[RAG Application: Nova Scotia Road Safety Expert](https://github.com/bhavik-knight/5550-RAG-App)**: retrieval-augmented Q&A over the Nova Scotia Driver's Handbook, with five layers of prompt-injection defence, PII redaction, and an LLM-based faithfulness score. Stack: Python, LangChain, ChromaDB, Jina embeddings, OpenRouter.
  
-**[Movie Recommendation System](https://github.com/bhavik-knight/5580-movie-recommendation-system)**: item-item collaborative filtering (cosine similarity) on MovieLens 100K. Takes up to 5 movies, returns 10 recommendations with a reason for each, through a FastAPI backend and a Chainlit chatbot that uses Ollama to understand titles. Stack: Python, FastAPI, Chainlit, Ollama, Docker.
+**[Movie Recommendation System](https://github.com/bhavik-knight/5580-movie-recommendation-system)**: item-item collaborative filtering (cosine similarity) on MovieLens 100K. Takes up to 5 movies and returns 10 recommendations with a reason for each, via a FastAPI backend and a Chainlit chatbot that uses Ollama to understand titles. Stack: Python, FastAPI, Chainlit, Ollama, Docker.
  
-**[Nova Scotia Power: Forecasting & Anomaly Detection](https://github.com/bhavik-knight/5580-a6-anomaly-detection-nsp)**: 10 years of electricity data, with Prophet and multivariate LSTM (PyTorch) forecasts, anomaly detection (Z-score, IQR, Isolation Forest) and Tableau-ready outputs. Stack: Python, Prophet, PyTorch, Tableau.
+**[Nova Scotia Power: Forecasting & Anomaly Detection](https://github.com/bhavik-knight/5580-a6-anomaly-detection-nsp)**: 10 years of electricity data, with Prophet and multivariate LSTM (PyTorch) forecasts, anomaly detection (Z-score, IQR, Isolation Forest), and Tableau-ready outputs. Stack: Python, Prophet, PyTorch, Tableau.
