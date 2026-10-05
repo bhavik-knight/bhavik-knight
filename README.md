@@ -4,7 +4,7 @@
  
 Hi, I'm Bhavik 👋 
 
-In my free time, I enjoy reading, movies, and exploring new tech breakthroughs. 
+📚 In my free time: reading, movies, and exploring new tech breakthroughs.
 
 ---
 
