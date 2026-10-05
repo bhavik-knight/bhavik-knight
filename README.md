@@ -1,4 +1,6 @@
-### About Me
+<table> <tr> <td valign="middle">
+
+**About Me**
  
 Hi, I'm Bhavik 👋 
 
@@ -8,6 +10,8 @@ I build ML pipelines and local LLM applications, and I care about taking models 
 🌱 **Currently exploring:** AI/ML Engineer Roles.<br/>
 💬 **Ask me about:** Ricing Linux, open-source software, and fixing software issues.<br/>
 ⚡ **Fun fact:** I love hackathons, picking up new tech stacks fast, and anything AI.<br/>
+
+</td> <td align="center" valign="middle" width="280"> <img src="assets/Bhavik-Img-GenAI-ChatGPT.jpg" alt="Bhavik, ML Engineer" width="260"> </td> </tr> </table>
  
 ---
  
