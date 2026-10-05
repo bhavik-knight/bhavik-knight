@@ -4,7 +4,15 @@
  
 Hi, I'm Bhavik 👋 
 
-I build ML pipelines and local LLM applications, and I care about taking models from a notebook to something that actually runs reliably. 
+In my free time, I enjoy reading, movies, and exploring new tech breakthroughs. 
+
+---
+
+- Master of Science in Computing & Data Analytics @ Saint Mary's University
+- Post-baccalaureate Diploma in Artificial Intelligence @ St. Francis Xavier University
+- Bachelor of Engineering in Mechanical Engineering @ Gujarat Technological University
+
+---
  
 🔭 **Working on:** ML pipelines and applications built on local LLMs.<br/>
 🌱 **Currently exploring:** AI/ML Engineer Roles.<br/>
@@ -12,10 +20,10 @@ I build ML pipelines and local LLM applications, and I care about taking models 
 ⚡ **Fun fact:** I love hackathons, picking up new tech stacks fast, and anything AI.<br/>
 
 </td> <td align="center" valign="middle" width="280"> <img src="assets/Bhavik-Img-GenAI-ChatGPT.jpg" alt="Bhavik, ML Engineer" width="260"> </td> </tr> </table>
- 
+
 ---
- 
-### Contact Me
+
+**Contact Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavik-knight)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavik.knight@gmail.com)
@@ -29,7 +37,7 @@ I build ML pipelines and local LLM applications, and I care about taking models 
 
 ### 🎯 Target Role: AI / ML Engineer
  
-I'm aiming for AI / ML Engineer roles, and I bring a range across the whole stack around the model, from data to deployment.
+I'm pursuing AI/ML Engineer roles and bring a range across the whole stack around the model, from data to deployment.
  
 | Area | What I bring |
 |------|--------------|
